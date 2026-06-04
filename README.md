@@ -52,14 +52,14 @@ remote files, port forwarding, sync/backup workflows, and daily server work.
 
 Built with **Tauri 2**, **React**, **TypeScript**, and **Rust**.
 
-[Repository](https://github.com/zargoai/nyaterm)
-![Stars](https://img.shields.io/github/stars/zargoai/nyaterm?style=flat-square&logo=github)
-![Top Language](https://img.shields.io/github/languages/top/zargoai/nyaterm?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/zargoai/nyaterm?style=flat-square)
+[Repository](https://github.com/nyakang/nyaterm)
+![Stars](https://img.shields.io/github/stars/nyakang/nyaterm?style=flat-square&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nyakang/nyaterm?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/nyakang/nyaterm?style=flat-square)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zargoai/GoldPriceBubble,zargoai/nyaterm&type=Date)](https://www.star-history.com/#zargoai/GoldPriceBubble&zargoai/nyaterm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zargoai/GoldPriceBubble,nyakang/nyaterm&type=Date)](https://www.star-history.com/#zargoai/GoldPriceBubble&nyakang/nyaterm&Date)
 
 ---
 
