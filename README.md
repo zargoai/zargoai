@@ -1,4 +1,4 @@
-# Hi, I'm zargoai
+# Hi, I'm Lucas
 
 Client developer and full-stack engineer, with **Java backend** as my main base.
 
