@@ -40,7 +40,10 @@ This is one of my most visible projects, focused on practical client-side UX:
 small surface area, realtime information, and a tool that stays useful without
 getting in the way.
 
-[![GoldPriceBubble](https://github-readme-stats.vercel.app/api/pin/?username=zargoai&repo=GoldPriceBubble&theme=github_dark&hide_border=true)](https://github.com/zargoai/GoldPriceBubble)
+[Repository](https://github.com/zargoai/GoldPriceBubble)
+![Stars](https://img.shields.io/github/stars/zargoai/GoldPriceBubble?style=flat-square&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/zargoai/GoldPriceBubble?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/zargoai/GoldPriceBubble?style=flat-square)
 
 ### NyaTerm
 
@@ -49,18 +52,14 @@ remote files, port forwarding, sync/backup workflows, and daily server work.
 
 Built with **Tauri 2**, **React**, **TypeScript**, and **Rust**.
 
-[![NyaTerm](https://github-readme-stats.vercel.app/api/pin/?username=zargoai&repo=nyaterm&theme=github_dark&hide_border=true)](https://github.com/zargoai/nyaterm)
+[Repository](https://github.com/zargoai/nyaterm)
+![Stars](https://img.shields.io/github/stars/zargoai/nyaterm?style=flat-square&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/zargoai/nyaterm?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/zargoai/nyaterm?style=flat-square)
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zargoai/GoldPriceBubble,zargoai/nyaterm&type=Date)](https://www.star-history.com/#zargoai/GoldPriceBubble&zargoai/nyaterm&Date)
-
-## GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zargoai&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zargoai&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
